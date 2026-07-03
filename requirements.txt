@@ -1,0 +1,10 @@
+streamlit
+groq
+pymupdf
+sentence-transformers
+torch
+torchvision
+spacy
+pandas
+numpy
+requests
