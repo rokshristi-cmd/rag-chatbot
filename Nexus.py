@@ -23,7 +23,7 @@ import time
 # ─────────────────────────────────────────────
 # CONFIG
 # ─────────────────────────────────────────────
-GROQ_API_KEY = st.secrets.get("GROQ_API_KEY", "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")
+GROQ_API_KEY = st.secrets.get("GROQ_API_KEY", "")
 GROQ_MODEL   = "openai/gpt-oss-20b"
 EMBED_MODEL  = "all-mpnet-base-v2"
 CHUNK_SIZE   = 10
