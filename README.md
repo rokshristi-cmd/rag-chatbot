@@ -1,4 +1,5 @@
 # NEXUS 📄🤖
+<img width="757" height="842" alt="Screenshot 2026-11-18 151138" src="https://github.com/user-attachments/assets/785fdbaa-df41-4fd6-8bee-6af4b6b0a7ab" />
 A RAG-based document Q&A app. Upload a PDF, ask questions, and get streamed answers with page citations.
 
 🔗 **Live demo:** https://shristi-nexus.streamlit.app
